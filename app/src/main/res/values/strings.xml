@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">BoaViagem</string>
+    <string name="title_activity_main">Boa viagem Activity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="usuarioString">Usuário</string>
+    <string name="senhaTextView">Senha</string>
+    <string name="logarButton">Logar</string>
+    <string name="erroAutenticacao">Usuário ou senha inválidos</string>
+    <string name="appName">Boa Viagem</string>
+    <string name="novoGastoTextView">Novo Gasto</string>
+    <string name="novaViagemTextView">Nova Viagem</string>
+    <string name="minhasViagensTextView">Minhas Viagens</string>
+    <string name="configuracoesTextView">Configurações</string>
+    <string name="destinoTextView">Destino</string>
+    <string name="tipoViagemEditText">Tipo da viagem</string>
+    <string name="lazerRadioButton">Lazer</string>
+    <string name="negociosRadioButton">Negócios</string>
+    <string name="dataChegadaTextView">Data Chegada</string>
+    <string name="dataSaidaTextView">Data Saída</string>
+    <string name="selecionarDataButton">Selecione</string>
+    <string name="orcamentoTextView">Orçamento</string>
+    <string name="quantidadePessoasTextView">Quantidade de Pessoas</string>
+    <string name="salvarButton">Salvar</string>
+    <string name="valorTextView">Valor</string>
+    <string name="dataTextView">Data</string>
+</resources>
